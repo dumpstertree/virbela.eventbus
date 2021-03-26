@@ -1,0 +1,17 @@
+{
+  "name": "com.virbela.eventbus",
+  "version": "1.0.0",
+  "displayName": "Virbela Eventbus",
+  "description": "",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "dependencies": {
+ },
+ "keywords": [
+  ],
+  "author": {
+    "name": "Virbela",
+    "email": "virbela@virbela.com",
+    "url": "https://www.virbela.com"
+  }
+}
